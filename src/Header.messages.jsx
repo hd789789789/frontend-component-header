@@ -9,7 +9,7 @@ const messages = defineMessages({
   'header.links.programs': {
     id: 'header.links.programs',
     defaultMessage: 'Programs',
-    description: 'Link to the learner program dashboard',
+    description: 'Link to the learner program dashboard (test)',
   },
   'header.links.content.search': {
     id: 'header.links.content.search',
